@@ -49,4 +49,13 @@ As a student project, this application requires users to provide their own OpenA
 
 This is a student project and is not affiliated with or endorsed by SAS Institute Inc. or OpenAI. Use the application responsibly and be aware of any costs associated with your OpenAI API usage.
 
+
+## Inspiration
+The original idea for this project is not mine; I recreated a Python project inspired by:
+
+- **Video:** [Link to Video Title](https://www.youtube.com/watch?v=-sgGH8lD_XU)
+- **Channel:** [All About AI](https://www.youtube.com/@AllAboutAI)
+
+**Go check it out!**
+
 Enjoy learning SAS, and happy coding!
