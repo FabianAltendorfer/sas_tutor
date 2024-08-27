@@ -27,18 +27,18 @@ As a student project, this application requires users to provide their own OpenA
 1. **Cost**: OpenAI charges for API usage, and as a student, I cannot cover these costs for all users.
 2. **Security**: Using your own API key ensures that your conversations remain private and under your control.
 
-## How to Get an API Key
-
-1. Visit [OpenAI's website](https://openai.com) and sign up for an account.
-2. Navigate to the API section and create a new API key.
-3. Copy this key and keep it secure – you'll need to enter it when you first use the SAS Tutor.
-
 ## Using the Application
 
 1. Open [SAS_Tutor](https://fabianaltendorfer.github.io/sas_tutor/).
 2. When prompted, enter your OpenAI API key.
 3. Start asking questions about SAS in the input field.
 4. Use the Pomodoro timer to manage your study sessions.
+
+## How to Get an API Key
+
+1. Visit [OpenAI's website](https://openai.com) and sign up for an account.
+2. Navigate to the API section and create a new API key.
+3. Copy this key and keep it secure – you'll need to enter it when you first use the SAS Tutor.
 
 ## Privacy and Data Usage
 
