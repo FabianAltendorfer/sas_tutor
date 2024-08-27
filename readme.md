@@ -11,6 +11,8 @@ SAS Tutor is an interactive web application designed to help you learn and pract
 3. **Code Highlighting**: Proper formatting and syntax highlighting for SAS code snippets.
 4. **Conversation History**: Keep track of your learning progress within each session.
 
+![SAS Tutor in Action](https://github.com/FabianAltendorfer/sas_tutor/blob/3084edf5f1852240927c3f730a15532e156f84bf/sas_tutor_gif.gif)
+
 ## How It Can Be Useful
 
 - **Quick answers**: Get immediate responses to your SAS-related questions.
