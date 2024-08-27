@@ -35,7 +35,7 @@ As a student project, this application requires users to provide their own OpenA
 
 ## Using the Application
 
-1. Open the `index.html` file in your web browser.
+1. Open [SAS_Tutor](https://fabianaltendorfer.github.io/sas_tutor/).
 2. When prompted, enter your OpenAI API key.
 3. Start asking questions about SAS in the input field.
 4. Use the Pomodoro timer to manage your study sessions.
