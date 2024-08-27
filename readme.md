@@ -53,7 +53,7 @@ This is a student project and is not affiliated with or endorsed by SAS Institut
 ## Inspiration
 The original idea for this project is not mine; I recreated a Python project inspired by:
 
-- **Video:** [Link to Video Title](https://www.youtube.com/watch?v=-sgGH8lD_XU)
+- **Video:** [Coding with AI](https://www.youtube.com/watch?v=-sgGH8lD_XU)
 - **Channel:** [All About AI](https://www.youtube.com/@AllAboutAI)
 
 **Go check it out!**
